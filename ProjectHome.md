@@ -1,0 +1,1 @@
+Imgur Uploader is a simple and small desktop tool that allows you to upload your picture files to Imgur.com without using a browser and returns your new hosted image in a URL link to share with your friends, family or online social media with 2 simple clicks!
